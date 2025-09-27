@@ -140,8 +140,7 @@ Add Barcode/QR Code Print for products
 👨‍💻 Author
 
 Developed by [Abdur Rahman]
-📧 Contact: youremail@example.com
+📧 Contact: redwanraju75@gmail.com
 
-👉 ভাই, চাইলে আমি আপনার জন্য sql/shop_manager.sql ফাইলটাও লিখে দিতে পারি যাতে ডাটাবেজ রেডি হয়ে যায়। সেটা কি দেব?
 
 ChatGPT can make mistake
